@@ -1,0 +1,11 @@
+p, h1, li {
+  color: red;
+}
+
+.quote {
+  color: purple;
+}
+
+#mainquote {
+  color: green;
+}

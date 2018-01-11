@@ -4,7 +4,7 @@
  }
 
  function sayWoof () {
- 	alert ('Woof!'):
+ 	alert ('Woof!');
  }
  
  // Use a CSS selector to identify an element
