@@ -1,4 +1,4 @@
-#apple-stock-chart {
+#apple-stock-chart body {
   font: 10px sans-serif;
 }
 
@@ -13,7 +13,7 @@
   display: none;
 }
 
-.#apple-stock-chart .line {
+#apple-stock-chart .line {
   fill: none;
   stroke: steelblue;
   stroke-width: 1.5px;
